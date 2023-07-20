@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.time-accessed-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+.company-logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.title {
+  margin-right: 15px;
+  font-weight: 600;
+}
+.domain-url {
+}
+.delete-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
